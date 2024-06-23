@@ -6,12 +6,17 @@ export default function About() {
             <div id="aboutImg"></div>
             <div id="aboutText">
                 <h4 id="aboutHeading">SOBRE</h4><br />
-                <h1>Porque comprar um pacote de viagem?</h1>
-                <p>Optar por um pacote de viagens traz inúmeras vantagens que podem transformar sua experiência de viagem em algo ainda mais especial e sem preocupações.
+                <h1>Porque viajar com a Travel?</h1>
+                <p>Porque transformamos seus sonhos de viagem em realidade, cuidando de tudo para que <p></p>você possa simplesmente relaxar e aproveitar cada instante. <p></p>Descubra novos horizontes com a gente<p></p> e faça da sua próxima viagem uma memória <strong>inesquecível.</strong>
 
-</p>
+                </p>
+
                 <br />
-                <p> Ao escolher um de nossos pacotes na [Nome da Agência de Viagens], você desfruta de conveniência e comodidade, com tudo organizado em um só lugar. Passagens aéreas, hospedagem, traslados, passeios e alimentação são cuidadosamente integrados, evitando as complicações de reservas individuais e simplificando seu planejamento de viagem. Nossa equipe cuida de todos os detalhes, desde o embarque até o retorno, permitindo que você relaxe e aproveite cada momento sem preocupações.</p>
+                <br />
+
+                <p>A Travel é uma agência de viagens comprometida em criar experiências<p></p> de viagem <strong>excepcionais</strong> para nossos clientes.<p></p> Com uma equipe apaixonada e experiente, oferecemos pacotes personalizados <p></p>que garantem aventuras inesquecíveis, cheias de conforto e segurança.<p></p> Nosso objetivo é proporcionar momentos únicos, planejando cada detalhe com <p></p>cuidado e dedicação.
+
+                </p>
             </div>
         </div>
     )

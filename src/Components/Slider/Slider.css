@@ -3,6 +3,7 @@
 
 #slider {
     color: white;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.6);
     max-width: 120%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -49,4 +50,11 @@
 .text-p {
     font-size: 50px;
     font-family: 'Bebas Neue'
+}
+
+.p {
+    text-shadow: 1.5px 1px rgba(0, 0, 0, 0.6);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(244, 210, 43);
 }

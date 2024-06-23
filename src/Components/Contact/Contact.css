@@ -1,11 +1,15 @@
 /* Contact */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 #contact {
+    background-image: url(../../Images/contato.jpg) ;
+    background-size: cover;
     display: flex;
     justify-content: center;
     text-align: center;
     padding: 3em;
 }
-  
+
 #contact h1 {
     font-weight: 800;
 }
@@ -17,9 +21,15 @@
 }
 
 .form-group{
+    color: #f5ecec;
     display: flex;
     flex-direction: column;
     gap: 5px;
+    
+}
+
+.email {
+    grid-column: span 2;
 }
 
 input, textarea{
@@ -52,6 +62,12 @@ input::placeholder, textarea::placeholder{
 
 #contact button:hover{
     cursor: pointer;
-    background-color: #FA4949;
+    background-color: #122c2d;
+}
+
+.contact-h1{
+    font-size: 40px;
+    color: white;
+    font-family: 'Bebas Neue';
 }
 
