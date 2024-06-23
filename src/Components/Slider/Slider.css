@@ -1,18 +1,26 @@
 /* HOME  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 #slider {
-    background-image: url(../../Images/banner_bg_11.png);
-    min-height: 130vh;
-    background-size: cover;
     color: white;
+    max-width: 120%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+    background-image: url('../../Images/inicio.jpg'); 
+    padding-top: 85px;
+    margin-top: -85px;
 }
-  
+
 #sliderimg {
     width: 40%;
     float: right;
     height: 90vh;
     background-size: cover;
 }
-  
+
 #slidertext {
     position: top;
     float: left;
@@ -20,4 +28,25 @@
     margin: 25vh auto 0px 10px;
     padding-left: 10px;
 }
-  
+
+.text-highlight-1 {
+    font-size: 50px;
+    font-family: 'Bebas Neue';
+    color: rgb(245, 210, 14);
+}
+
+.text-highlight-2 {
+    font-size: 50px;
+    font-family: 'Bebas Neue';
+    color: rgb(245, 210, 14);
+}
+
+.text-h1 {
+    font-size: 50px;
+    font-family: 'Bebas Neue'
+}
+
+.text-p {
+    font-size: 50px;
+    font-family: 'Bebas Neue'
+}

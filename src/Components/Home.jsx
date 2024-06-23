@@ -1,5 +1,5 @@
 import Contact from './Contact/Contact';
-import Team from './Team/Team';
+// import Team from './Team/Team';
 import Price from './Price/Price';
 import Services from './Services/Services';
 import Slider from './Slider/Slider';
@@ -12,7 +12,7 @@ export default function Home() {
             <About />
             <Services />
             <Price />
-            <Team />
+            {/* <Team /> */}
             <Contact />
         </div>
     )

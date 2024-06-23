@@ -5,7 +5,7 @@ export default function About() {
         <div id="about">
             <div id="aboutImg"></div>
             <div id="aboutText">
-                <h4 id="aboutHeading">Sua Jornada Começa Aqui!</h4><br />
+                <h4 id="aboutHeading">SOBRE</h4><br />
                 <h1>Porque comprar um pacote de viagem?</h1>
                 <p>Optar por um pacote de viagens traz inúmeras vantagens que podem transformar sua experiência de viagem em algo ainda mais especial e sem preocupações.
 
